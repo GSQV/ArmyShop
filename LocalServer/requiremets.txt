@@ -1,0 +1,6 @@
+toml
+exrex
+fastapi
+uvicorn
+colorama
+aiosqlite
